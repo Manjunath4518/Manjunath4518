@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Manjunath Bijjala 👋</h1>
 
 <p align="center">
-  <i>Django Developer | Full-Stack Enthusiast | B.Tech #rd Year @ Vardhaman College of Engineering</i><br>
+  <i>Django Developer | Full-Stack Enthusiast | B.Tech 3rd Year @ Vardhaman College of Engineering</i><br>
   <i>Passionate about Building Scalable Web Apps & Exploring GenAI</i>
 </p>
 
