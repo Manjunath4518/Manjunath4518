@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Manjunath Bijjala 👋</h1>
 
 <p align="center">
-  <i>Django Developer | Full-Stack Enthusiast | B.Tech 2nd Year @ Vardhaman College of Engineering</i><br>
+  <i>Django Developer | Full-Stack Enthusiast | B.Tech #rd Year @ Vardhaman College of Engineering</i><br>
   <i>Passionate about Building Scalable Web Apps & Exploring GenAI</i>
 </p>
 
@@ -40,39 +40,12 @@
 
 ### 📜 Certifications:
 
-<div align="center">
+- **Django** – Vardhaman College of Engineering  
+- **Web Design** – freeCodeCamp  
+- **Python** – HackerRank  
+- **Fundamentals of Web Development** – Code With Swaroop  
+- **Machine Learning & AI** – NIELIT Chennai  
 
-<!-- Django - Vardhaman College -->
-<div style="display: flex; align-items: center; justify-content: center; margin-bottom: 10px;">
-  <img src="https://vardhaman.org/wp-content/uploads/2021/06/vardhaman-logo.png" height="40" alt="Vardhaman" />
-  <span style="margin-left: 15px;"><b>Django</b> – Vardhaman College of Engineering</span>
-</div>
-
-<!-- Web Design - freeCodeCamp -->
-<div style="display: flex; align-items: center; justify-content: center; margin-bottom: 10px;">
-  <img src="https://design-style-guide.freecodecamp.org/downloads/fcc_primary_small.jpg" height="40" alt="freeCodeCamp" />
-  <span style="margin-left: 15px;"><b>Web Design</b> – freeCodeCamp</span>
-</div>
-
-<!-- Python - HackerRank -->
-<div style="display: flex; align-items: center; justify-content: center; margin-bottom: 10px;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" height="40" alt="HackerRank" />
-  <span style="margin-left: 15px;"><b>Python</b> – HackerRank</span>
-</div>
-
-<!-- Web Dev - Code With Swaroop -->
-<div style="display: flex; align-items: center; justify-content: center; margin-bottom: 10px;">
-  <img src="https://yt3.googleusercontent.com/ytc/AOPolaRy4d5g4ovYP1RLmZ2vVuFbQF0l3VDgJvRJto5z=s176-c-k-c0x00ffffff-no-rj" height="40" alt="Code With Swaroop" />
-  <span style="margin-left: 15px;"><b>Fundamentals of Web Development</b> – Code With Swaroop</span>
-</div>
-
-<!-- AI & ML - NIELIT -->
-<div style="display: flex; align-items: center; justify-content: center; margin-bottom: 10px;">
-  <img src="https://www.nielit.gov.in/themes/nielit/images/logo.png" height="40" alt="NIELIT" />
-  <span style="margin-left: 15px;"><b>Machine Learning & AI</b> – NIELIT Chennai</span>
-</div>
-
-</div>
 
 
 ---
