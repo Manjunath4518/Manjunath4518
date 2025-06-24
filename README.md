@@ -23,9 +23,11 @@
 ---
 
 ### 🚀 Notable Projects:
-- 💬 **Real-time Chat App** – Django + WebSockets for live conversations.
-- 🧾 **Certificate Generator** – Auto-generates event certificates with names & emails.
-- 🎥 **Social Media Video Downloader** – Input links from Instagram, YouTube, etc., and download instantly.
+
+- 💬 **Real-time Chat App** – Built using Django Channels for 1-on-1 and group messaging in real time.
+- 🧾 **Certificate Generator** – Auto-generates and delivers personalized certificates with name/email fields.
+- 🎥 **Social Media Video Downloader** – Download videos directly from links of YouTube, Instagram, etc.
+- 🍽️ **Restaurant QR Code Menu Generator** – Creates unique QR codes for digital menus; helps restaurants go contactless.
 
 
 ---
